@@ -12,7 +12,10 @@ Código para o controle do braço robótico [MeArm](https://www.instructables.co
 
 ## Como Usar
 **Montagem:** Conecte os componentes ao Arduino conforme o modelo.
-**Carregue o Código:** Abra o arquivo controle.ino no IDE do Arduino e faça o upload para o seu Arduino.
+**Carregue o Código:** Abra o arquivo ```controle.ino``` no IDE do Arduino e faça o upload para o seu Arduino.
+
+![image](https://github.com/user-attachments/assets/277067b0-7adb-4dff-9a59-5b3f92301a96)
+
 
 ## Operação:
 
