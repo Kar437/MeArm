@@ -304,6 +304,7 @@ void moveServoAutomatico() {
 
 
 // Função que verifica se o botão foi apertado
+
 void verificaBotao() {
   int estadoB = digitalRead(pinBot);
   if (estadoB == HIGH) {
