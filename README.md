@@ -21,7 +21,6 @@ Código para o controle do braço robótico [MeArm](https://www.instructables.co
 
 **Modo Manual:** Controle os servos diretamente usando os joysticks.
 **Modo Automático:** Pressione o botão para alternar para o modo automático. O LED acenderá para indicar que o modo automático está ativo. Para retornar ao controle manual, pressione o botão novamente.
-image
 
 ## Observações
 - Lembre-se de verificar os angulos passados para os servos antes de executar o código, evitando que os motores sejam forçados.
